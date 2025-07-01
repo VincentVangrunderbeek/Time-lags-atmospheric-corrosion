@@ -1,4 +1,4 @@
-This Python 3.11 code written in Jupyter Notebook VS Code reproduces the findings of the following scientific article, accepted for publication in Corrosion Science on ...
+This Python 3.11 code written in Jupyter Notebook VS Code reproduces the findings of the following scientific article, accepted for publication in Corrosion Science on 30/06/2025
 
 "Corrosion and environmental sensor response delays during monitored multi-droplet wetting: Unraveling time lags in atmospheric corrosion"
 
